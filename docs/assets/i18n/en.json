@@ -1,0 +1,17 @@
+{
+  "about": "About",
+  "contact": "Contact",
+  "hello": "Hey, I'm",
+  "stack": "Full-Stack Developer",
+  "about1": "Student and lover of development since I was 17, I specialized in TypeScript during that time.",
+  "about2": "Graduated in Computer Science from UNIPAC, I had the opportunity to participate in extracurricular projects that shaped my knowledge and my passion for software development and architecture.",
+  "about3": "I currently work as a Fullstack Developer. In addition, I am also very active in the Angular community.",
+  "about4": "My main stack has always been C# in backend and TypeScript in frontend using both Angular and React as frameworks. About databases, I have experience with MySQL and SQL Server as well as non-relational databases like MongoDB. With agile software development, I got my first certification in Scrum. In addition to development, I have also studied infrastructure in Cloud environments with Amazon Web Services (AWS).",
+  "name": "Name",
+  "email": "Email",
+  "message": "Message",
+  "infName": "Provide your name...",
+  "infEmail": "Provide your email...",
+  "letsBuild": "LET'S BUILD SOMETHING TOGETHER?",
+  "send": "Send"
+}

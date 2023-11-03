@@ -1,0 +1,17 @@
+{
+  "about": "Sobre",
+  "contact": "Contato",
+  "hello": "Olá, Sou o",
+  "stack": "Dev \n Full-Stack",
+  "about1": "Estudante e amante de desenvolvimento desde os 17 anos, me especializei em TypeScript no decorrer desse tempo.",
+  "about2": "Graduado em Ciência da Computação pela UNIPAC, tive oportunidade de participar de projetos extracurriculares que moldaram meu conhecimento e minha paixão por desenvolvimento e arquitetura de software.",
+  "about3": "Atualmente trabalho como Desenvolvedor Fullstack. Além disso, também sou muito ativo na comunidade Angular.",
+  "about4": "Minha principal stack sempre foi C# no back-end e TypeScript no front-end usando tanto Angular quanto React como frameworks. Sobre bancos de dados, tenho experiência com MySQL e SQL Server além de bancos não relacionais como MongoDB. Com desenvolvimento ágil de software, obtive minha primeira certificação em Scrum. Em adição a desenvolvimento, também tenho estudado infraestrutura em ambientes Cloud com Amazon Web Services (AWS).",
+  "name": "Nome",
+  "email": "Email",
+  "message": "Mensagem",
+  "infName": "Informe seu nome...",
+  "infEmail": "Informe seu email...",
+  "letsBuild": "VAMOS CONSTRUIR ALGO JUNTOS?",
+  "send": "Enviar"
+}
