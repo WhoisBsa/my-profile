@@ -1,18 +1,18 @@
 <nav>
   <a class="home" href="#home">
-    <img class="logo" src="../../assets/img/logo.png">
+    <img class="logo" src="../../assets/img/logo.png" alt="Site logo">
     <h2>Matheus Barbosa</h2>
   </a>
   <div>
     <a href="#about"><h2 class="info-menu">{{ 'about' | translate }}</h2></a>
     <a href="#contact"><h2 class="info-menu">{{ 'contact' | translate }}</h2></a>
     <form [formGroup]="lang" class="translation-area">
-      <img class="flag" src="../../assets/img/Brazil.jpg">
+      <img class="flag" src="../../assets/img/Brazil.jpg" alt="Brazil flag">
       <tui-toggle
         formControlName="langEN"
         [showIcons]="false"
         [singleColor]="true"></tui-toggle>
-      <img class="flag" src="../../assets/img/United_States.jpg">
+      <img class="flag" src="../../assets/img/United_States.jpg" alt="USA flag">
     </form>
   </div>
 </nav>
@@ -22,9 +22,8 @@
 
   <section>
     <div class="hello">
-      <div>{{ 'hello' | translate }} <strong>Barbosa</strong> -- {{ 'stack' |
-        translate }}</div>
-      <img class="profile-photo" src="../../assets/img/profile.jfif">
+      <div>{{ 'hello' | translate }} <strong>Barbosa</strong> -- {{ 'stack' | translate }}</div>
+      <img class="profile-photo" src="../../assets/img/profile.jfif" alt="Profile photo">
     </div>
 
     <div class="social">
