@@ -10,8 +10,8 @@
   "name": "Name",
   "email": "Email",
   "message": "Message",
-  "infName": "Provide your name...",
-  "infEmail": "Provide your email...",
+  "infoName": "Provide your name...",
+  "infoEmail": "Provide your email...",
   "letsBuild": "LET'S BUILD SOMETHING TOGETHER?",
   "send": "Send"
 }
